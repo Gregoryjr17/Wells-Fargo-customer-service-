@@ -16,7 +16,7 @@ account. Transaction date captured on credit card account is basis the
 
 transaction date submitted by the Merchant Establishment/Card 
 
-Association (i.e. Visa). The Wells Fargo Bank will not be held responsible if Merchant 
+Association (i.e. Master card,Visa). The Wells Fargo Bank will not be held responsible if Merchant 
 
 Establishment submits the transaction date as different from the actual 
 
